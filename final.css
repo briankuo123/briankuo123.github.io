@@ -1,11 +1,11 @@
 p{
 	color:blue;
+	/*改變文字顏色*/
 }
-//改變文字顏色
 .round {
 	border-radius:25px;
+	/*改變圖片的角*/
 }
-//改變圖片的角
 #top {
 	transition: width 1s, height 1s, transform 1s ease-in;
 }
@@ -13,13 +13,13 @@ p{
 	width: 600px;
 	height:900px;
 	transform: rotate(360deg);
+	/*以上兩個是讓圖片旋轉變大*/
 }
-//以上兩個是讓圖片旋轉變大
 #but{
 	color:green;
 	font-size:16px;
 	width:100px;
 	height:100px;
 	background-color:yellow;
+	/*以上是設定按鈕造型*/
 }
-//以上是設定按鈕造型
