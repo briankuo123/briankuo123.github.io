@@ -1,3 +1,11 @@
+p{
+	color:blue;
+}
+//改變文字顏色
+.round {
+	border-radius:25px;
+}
+//改變圖片的角
 #top {
 	transition: width 1s, height 1s, transform 1s ease-in;
 }
@@ -7,9 +15,6 @@
 	transform: rotate(360deg);
 }
 //以上兩個是讓圖片旋轉變大
-#toptext {
-	color:red;
-}
 #but{
 	color:green;
 	font-size:16px;
